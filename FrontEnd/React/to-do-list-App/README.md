@@ -6,7 +6,7 @@
 <h3 align="center">To-do list app</h3>
 
 <h1 align="center">
-    <img alt="Screenshot do app" src=".github/Screenshot.png" />
+    <img alt="Screenshot do app" src=".github/Screenshot.PNG" />
 </h1>
 
 ---
