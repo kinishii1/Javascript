@@ -39,8 +39,6 @@ Inicie o servidor
 npm start
 ```
 
-Finalize com um exemplos de como os dados são processados ou uma pequena demonstração.
-
 ## 🎈 Uso <a name="uso"></a>
 Preencha os campos com os dados necessários para o investimento e o calculo será feito automaticamente em uma tabela com 12 meses previstos.
 
