@@ -5,6 +5,9 @@
 
 <h3 align="center">App de investimentos</h3>
 
+<h1 align="center">
+    <img alt="Screenshot do app" src=".github/Screenshot.png" />
+</h1>
 
 ---
 
