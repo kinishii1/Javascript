@@ -1,0 +1,7 @@
+.card-footer {
+  padding: 20px;
+  width: 317px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #161619;
+}

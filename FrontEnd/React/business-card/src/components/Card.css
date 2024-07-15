@@ -1,0 +1,30 @@
+.card {
+  max-width: 317px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1A1B21;;
+}
+
+.card h1 {
+  color: #FFF;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.card h3 {
+  color: #F3BF99; 
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.card .card-website-link {
+  color: #FFF; 
+  font-size: 9px;
+  font-weight: 400;
+  margin-bottom: 15px;
+  letter-spacing: 1.5px;
+}
