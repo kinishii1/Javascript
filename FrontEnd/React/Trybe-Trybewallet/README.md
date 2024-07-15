@@ -43,7 +43,8 @@ npm run dev
 ```
 
 ## 🎈 Uso <a name="uso"></a>
-adicionar gastos e descrição que organizara automaticamente
+adicionar gastos escolher moeda com cambio atualizado, descrição, tag que organizara automaticamente
+possibilade de excluir e editar gastos
 
 ## Disclaimer <a name="uso"></a>
 Apenas codigo base do projeto foi criado por mim, restante foi disponibilizado pela Trybe
