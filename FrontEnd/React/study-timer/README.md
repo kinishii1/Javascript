@@ -1,27 +1,47 @@
-# React + TypeScript + Vite
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://logowik.com/content/uploads/images/clock-timer-blue3424.logowik.com.webp" alt="Logo Dinheiro"></a>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">Spaceapp</h3>
 
-Currently, two official plugins are available:
+<h1 align="center">
+    <img alt="Screenshot do app" src=".github/CAPTURAR.PNG" />
+</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+<p align="center"> Projeto Simples para aprender conceitos basicos sobre React
+    <br> 
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+## 🧐 Sobre <a name = "sobre"></a>
+Projeto desenvolvido a partir de curso sobre react. Foco em aprender basico sobre estilização, componentização e funcionamento de hooks
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+### Pré-requisitos
+
+```
+NodeJs e NPM
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Instalação
+
+Instale as dependências
+
+```
+npm install
+```
+
+Inicie o servidor
+
+```
+npm run build
+npm run dev
+```
+
+## 🎈 Uso <a name="uso"></a>
+Selecionar o tempo que deseja focar e começar o timer. Possibilidade de salvar multiplos timers e resetar o tempo
+
+## ⛏️ Feito Com <a name = "feito_com"></a>
+- [Reactjs](https://reactjs.org/) - Web Framework
