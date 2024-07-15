@@ -44,6 +44,7 @@ npm run dev
 
 ## 🎈 Uso <a name="uso"></a>
 Possibilidade de armazenar senhas fortes(validação), salvando a url do site
+<br>
 Fins de aprendizado, nao há seguranças adicionais implementandas
 
 ## Disclaimer <a name="uso"></a>
