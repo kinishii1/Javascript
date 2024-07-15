@@ -17,7 +17,7 @@
 
 
 ## 🧐 Sobre <a name = "sobre"></a>
-Projeto desenvolvido a partir de curso sobre react. Foco em aprender basico sobre estilização, componentização e funcionamento de hooks
+Projeto desenvolvido a partir de curso sobre react. Foco em aprender basico sobre estilização, componentização, funcionamento de hooks e conciliação de typescript com react
 
 ### Pré-requisitos
 
@@ -45,3 +45,4 @@ Selecionar o tempo que deseja focar e começar o timer. Possibilidade de salvar 
 
 ## ⛏️ Feito Com <a name = "feito_com"></a>
 - [Reactjs](https://reactjs.org/) - Web Framework
+- [Typescript](https://www.typescriptlang.org/)
