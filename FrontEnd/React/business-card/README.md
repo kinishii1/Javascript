@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNTnyyUpv5QOkIr1eCaMO7uuHW1A-L6kFHA&usqp=CAU" alt="Logo Dinheiro"></a>
 </p>
 
-<h3 align="center">Airbnb clone</h3>
+<h3 align="center">Business card</h3>
 
 <h1 align="center">
     <img alt="Screenshot do app" src=".github/CAPTURAR.PNG" />
@@ -36,6 +36,7 @@ npm install
 Inicie o servidor
 
 ```
+npm run build
 npm run dev
 ```
 
