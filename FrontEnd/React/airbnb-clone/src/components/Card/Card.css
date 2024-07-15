@@ -1,0 +1,50 @@
+.card {
+  width: 177px;
+  height: 300px;
+}
+
+.card img {
+ max-width: 176px;
+ max-height: 235px;
+}
+
+.star {
+  width: 14px;
+  height: 14px;
+  margin-right: 5px;
+}
+
+.stars span {
+  color: #222;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+}
+
+.stars span:last-child {
+  margin-left: 4px;
+  color: #918E9B;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+}
+
+.card p {
+  color: #222;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 110%;
+  /* 13.2px */
+}
+
+.price span {
+  color: #222;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 110%;
+  /* 13.2px */
+}
+
+.card .desc {
+  margin-bottom: 5%;
+}

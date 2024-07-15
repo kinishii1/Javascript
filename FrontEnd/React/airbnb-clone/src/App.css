@@ -1,0 +1,9 @@
+.cards {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  overflow-x:scroll;
+  overflow-y:hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
