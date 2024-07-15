@@ -6,7 +6,7 @@
 <h3 align="center">Trybewallet</h3>
 
 <h1 align="center">
-    <img alt="Screenshot do app" src=".github/CAPTURAR.PNG" />
+    <img alt="Screenshot do app" src="CAPTURAR.PNG" />
 </h1>
 
 ---
